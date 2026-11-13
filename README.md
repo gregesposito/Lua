@@ -1,3 +1,8 @@
+> ### About this fork (gregesposito)
+> A snapshot of the official [Windower/Lua](https://github.com/Windower/Lua) addon repository (July 2023) with **no local changes**. It's kept for reference; get current addons from upstream.
+
+---
+
 Lua
 ===
 Lua Addons and Scripts  
